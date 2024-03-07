@@ -1,4 +1,5 @@
 export const RESULT_STATUS = {
     SUCCESS: 'Success',
-    FAILURE: 'Failure'
+    FAILURE: 'Failure',
+    ERROR: 'Error'
 }

@@ -1,9 +1,9 @@
-
+import Task from "./task/page";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      welcome to the Taskify
-    </main>
+    <>
+      <Task />
+    </>
   );
 }
